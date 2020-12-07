@@ -1,0 +1,21 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.4.0)
+
+2020-12-07 20:31:15.837  INFO 10375 --- [           main] com.homework.app.AppApplication          : Starting AppApplication using Java 11.0.9.1 on lenovo with PID 10375 (/home/benji/dev/app/build/classes/java/main started by benji in /home/benji/dev/app)
+2020-12-07 20:31:15.857  INFO 10375 --- [           main] com.homework.app.AppApplication          : No active profile set, falling back to default profiles: default
+2020-12-07 20:31:17.658  INFO 10375 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-07 20:31:17.668  INFO 10375 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-07 20:31:17.668  INFO 10375 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-07 20:31:17.746  INFO 10375 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-07 20:31:17.747  INFO 10375 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1659 ms
+2020-12-07 20:31:17.988  INFO 10375 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-07 20:31:18.184  INFO 10375 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-07 20:31:18.205  INFO 10375 --- [           main] com.homework.app.AppApplication          : Started AppApplication in 3.417 seconds (JVM running for 4.806)
+Hello!
+2020-12-07 20:38:28.263  INFO 10375 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
